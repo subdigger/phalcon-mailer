@@ -154,7 +154,7 @@ class Mailer {
      * @param  Swift_Message  $message
      * @return integer
      */
-    protected function sendSwiftMessage($message)
+    public function sendSwiftMessage($message)
     {
         return $this->swift->send($message);
     }
