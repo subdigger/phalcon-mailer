@@ -1,13 +1,16 @@
 {
-    "name": "vanchelo/phalcon-mailer",
+    "name": "subdigger/phalcon-mailer",
     "type": "library",
     "description": "Phalcon Mailer Service",
     "keywords": ["mail","mailer","phalcon"],
-    "homepage": "https://github.com/vanchelo/phalcon-mailer",
+    "homepage": "https://github.com/subdigger/phalcon-mailer",
     "license": "GPLv2",
     "authors": [
         {
             "name": "Brezhnev Ivan"
+        },
+        {
+            "name": "Artyom Subach"
         }
     ],
     "require": {
